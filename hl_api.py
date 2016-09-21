@@ -1,7 +1,7 @@
 import json
 import requests
 
-genre_tag[rap, dubstep, electronica, trance, house]
+genre_tag = [rap, dubstep, electronica, trance, house]
 
 def main():
     statusCheck()
