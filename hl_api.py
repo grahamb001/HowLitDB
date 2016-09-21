@@ -27,4 +27,4 @@ def getData():
         r_1 = requests.get(url)
         resp_1 = r.json()
         for item in resp['artist']:
-print item['name']
+            print item['name']
